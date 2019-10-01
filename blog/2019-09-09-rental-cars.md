@@ -2,7 +2,7 @@
 title: Rental Cars
 date: 2019-09-09 20:08:08 -0700
 slug: rental-cars
-image: '/images/writing-posts-with-gridsome.jpg'
+image: '/images/cars.jpg'
 tags: projects
 author: []
 ---

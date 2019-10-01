@@ -1,5 +1,5 @@
 module.exports = {
-	siteName: 'Gridsome Casper',
+	siteName: 'Parker Venture Partners LLC.',
 	siteUrl: 'https://www.gridsome.org',
 	siteDescription: 'The professional publishing platform',
 	titleTemplate: `%s - Gridsome`,
