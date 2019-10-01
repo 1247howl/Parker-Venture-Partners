@@ -13,7 +13,7 @@
       <section class="post-full-content">
         <div class="post-content">
           <p>
-            <strong>Today's innovators were yesterday's instigators. Working together, imagine what we'll accomplish tomorrow. 
+            <strong>We are a newly formed Universal conglomerate with partners in various industries. Today's innovators were yesterday's instigators. Working together, imagine what we'll accomplish tomorrow. 
               <br/>
               Our management team and capitilization experts are looking for new ideas across most major industries, so tell us what's on your mind. We're open for business.</strong>
             <br/>

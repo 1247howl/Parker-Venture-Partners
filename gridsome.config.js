@@ -2,7 +2,7 @@ module.exports = {
 	siteName: 'Parker Venture Partners LLC.',
 	siteUrl: 'https://www.gridsome.org',
 	siteDescription: 'The professional publishing platform',
-	titleTemplate: `%s - Gridsome`,
+	titleTemplate: `%s - Home`,
 
 	plugins: [
 		{
