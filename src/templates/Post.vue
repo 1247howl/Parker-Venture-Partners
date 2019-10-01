@@ -30,15 +30,10 @@
             <div class="post-content" v-html="$page.post.content"></div>
           </section>
 
-          <!-- Email subscribe form at the bottom of the page -->
-          <section v-if="Admin.site.subscribers" class="subscribe-form">
-            <h3 class="subscribe-form-title">Subscribe to {{ Admin.site.title }}</h3>
-            <p>Get the latest posts delivered right to your inbox</p>
-            <subscribeForm placeholder="youremail@example.com"/>
-          </section>
-
+         
+<!-- 
           <bylineMultiple :author="$page.post.author" v-if="$page.post.author.length > 1"/>
-          <bylineSingle :author="$page.post.author" v-else/>
+          <bylineSingle :author="$page.post.author" v-else/> -->
 
           <!-- NOTE Comment section -->
           <!-- <section class="post-full-comments">
