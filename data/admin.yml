@@ -1,23 +1,21 @@
 site:
-  title: Gridsome Casper
+  title: Parker Venture Partners LLC.
   cover_image: '/images/blog-cover.jpg'
-  logo: '/images/gridsome-logo.png'
+  logo: ''
   url: '/'
-  description: 'The professional publishing platform'
-  subscribers: true
+  description: 'Entrepreneurs built here, Got a great idea? Looking for leadership? We find and fund innovations before they even have a name.'
+  subscribers: false
   navigation: true
 
 social_media:
-  facebook: 'gridsome'
-  twitter: 'gridsome'
-  patreon: 'mittalyashu'
+  facebook: 'howl'
 
 nav_home:
   - title: Home
     link: /
   - title: About
     link: /about
-  - title: Getting Started
-    link: /tag/getting-started/
-  - title: Try Gridsome
+  - title: Projects
+    link: /tag/projects/
+  - title: Schedule an appointment
     link: https://www.gridsome.org/

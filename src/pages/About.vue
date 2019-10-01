@@ -3,7 +3,7 @@
     <article class="post-full post page" :class="pageClass">
 
       <header class="post-full-header">
-        <h1 class="post-full-title">About us</h1>
+        <h1 class="post-full-title">There's no wrong answer to the right question.</h1>
       </header>
 
       <figure v-if="image" class="post-full-image">
@@ -12,7 +12,16 @@
 
       <section class="post-full-content">
         <div class="post-content">
-          <p>This is a Gridsome starter casper theme cloned from <a target="_blank" href="https://demo.ghost.io/">Casper</a>. I've put a lot of time and effort into making <strong>Gridsome Starter Casper</strong> project. If you love it, you can <a target="_blank" href="https://www.patreon.com/bePatron?u=8494594">Become a Patron</a>. I promise it will be a good investment 😉.</p>
+          <p>
+            <strong>Today's innovators were yesterday's instigators. Working together, imagine what we'll accomplish tomorrow. 
+              <br/>
+              Our management team and capitilization experts are looking for new ideas across most major industries, so tell us what's on your mind. We're open for business.</strong>
+            <br/>
+             Many so-called experts in the venture capital world have been one basic approach to how they do business: Inject lots of capital into the enterprise, pile on the debt, and then take over the board and squeeze the original innovator out. <strong>That model is broken.</strong> 
+             <br/>
+            
+             <br/>
+             Let's make magic happen together 😉.</p>
         </div>
       </section>
 

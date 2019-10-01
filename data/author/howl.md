@@ -1,6 +1,6 @@
 ---
-id: mittalyashu
-name: Yashu Mittal
+id: howl
+name: Anthony Stewart
 image: /images/mittalyashu.jpg
 tagline: 'Open Source Developer'
 bio: 'I am the Founder and CEO at CodeCarrot and open source developer.'
