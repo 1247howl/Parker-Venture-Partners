@@ -3,7 +3,7 @@
     <article class="post-full post page" :class="pageClass">
 
       <header class="post-full-header">
-        <h1 class="post-full-title">Parker Venture Partners was originally founded in 1969</h1>
+        <h1 class="post-full-title">Parker Venture Partners was originally founded in 2016 </h1>
       </header>
 
       <figure v-if="image" class="post-full-image">
@@ -13,7 +13,7 @@
       <section class="post-full-content">
         <div class="post-content">
           <p>
-            when it's founder, John Parker bought his very first business at 28 years old and now fifty (50) years later after owning over 180 companies during that period of 50 years. The organization has grown to a worldwide, multidimensional conglomerate involving health, wellness, car rentals, and enviornmental industries.
+            it all started when it's founder, John Parker bought his very first business at 28 years old in 1969 for 5000$ and now fifty (50) years later after owning over 180 companies during that period of 50 years. The organization has grown to a worldwide, multidimensional conglomerate involving health, wellness, car rentals, and enviornmental industries.
             
           <h2>Today's innovators were yesterday's instigators. Working together, imagine what we'll accomplish tomorrow.</h2> 
               Our management team and capitilization experts are looking for new ideas across most major industries, so tell us what's on your mind. We're open for business.
