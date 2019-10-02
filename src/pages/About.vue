@@ -3,7 +3,7 @@
     <article class="post-full post page" :class="pageClass">
 
       <header class="post-full-header">
-        <h1 class="post-full-title">There's no wrong answer to the right question.</h1>
+        <h1 class="post-full-title">Parker Venture Partners was originally founded in 1969</h1>
       </header>
 
       <figure v-if="image" class="post-full-image">
@@ -13,15 +13,15 @@
       <section class="post-full-content">
         <div class="post-content">
           <p>
-            <strong>We are a newly formed Universal conglomerate with partners in various industries. Today's innovators were yesterday's instigators. Working together, imagine what we'll accomplish tomorrow. 
-              <br/>
-              Our management team and capitilization experts are looking for new ideas across most major industries, so tell us what's on your mind. We're open for business.</strong>
-            <br/>
-             Many so-called experts in the venture capital world have been one basic approach to how they do business: Inject lots of capital into the enterprise, pile on the debt, and then take over the board and squeeze the original innovator out. <strong>That model is broken.</strong> 
-             <br/>
+            when it's founder, John Parker bought his very first business at 28 years old and now fifty (50) years later after owning over 180 companies during that period of 50 years. The organization has grown to a worldwide, multidimensional conglomerate involving health, wellness, car rentals, and enviornmental industries.
             
-             <br/>
-             Let's make magic happen together 😉.</p>
+          <h2>Today's innovators were yesterday's instigators. Working together, imagine what we'll accomplish tomorrow.</h2> 
+              Our management team and capitilization experts are looking for new ideas across most major industries, so tell us what's on your mind. We're open for business.
+            <br/>
+             Many so-called experts in the venture capital world have been one basic approach to how they do business: Inject lots of capital into the enterprise, pile on the debt, and then take over the board and squeeze the original innovator out.
+             <h3>That model is broken.</h3> 
+             <br/> 
+             <h2>Let's make magic happen together.</h2> 
         </div>
       </section>
 
